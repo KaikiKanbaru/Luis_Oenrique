@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Asap';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/asap/Asap-Regular.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Asap';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/asap/Asap-Bold.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Asap';
+    font-style: italic;
+    font-weight: 400;
+    src: url('../fonts/asap/Asap-Italic.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'Asap';
+    src: url('../fonts/asap/Asap-Medium.ttf');
+    font-weight: 500;
+  }
+
+  @font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 300;
+    src: url(../fonts/lato/Lato-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/lato/Lato-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "NirmalaUI";
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/nirmalaUI/NirmalaUI-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/montserrat/Montserrat-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "NirmalaUI";
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/nirmalaUI/NirmalaUI-Regular.ttf) format('truetype');
+}
+
+
