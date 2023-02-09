@@ -5,11 +5,11 @@
 }
 
 .container{
-    width: 1170;
+    width: 1170px;
     margin: 0 auto;
 }
 
 .main_section {
     height: 799px;
-    background: url(../img/main/bg/main_bg.png) center center/auto no-repeat;
+    background: url(../img/main/bg/main_bg.png) center center/140% 120% no-repeat;
 }
