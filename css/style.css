@@ -9,7 +9,17 @@
     margin: 0 auto;
 }
 
+.header .header_content{
+    height: 50px;
+    background-color: #ba0000;
+}
+
+.menu .menu_items{
+    height: 120px;
+    background-color: #ffcc00;
+}
+
 .main_section {
-    height: 799px;
-    background: url(../img/main/bg/main_bg.png) center center/140% 120% no-repeat;
+    height: 800px;
+    background: url(../img/main/main_bg.jpg) center center/cover no-repeat;
 }
