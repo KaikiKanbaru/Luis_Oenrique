@@ -20,6 +20,14 @@
     text-align: left;
 }
 
+.language-switcher .fa-angle-down{
+    color: #ffffff;
+    font-family: "Font Awesome";
+    font-style: normal;
+    letter-spacing: 0.42px;
+    line-height: normal;
+    font-weight: 500;
+}
 
 .site-header{
     height: 50px;
