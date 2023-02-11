@@ -15,7 +15,6 @@
 }
 
 .language-switcher{
-    display: inline-block;
     color: #ffffff;
     font-family: Poppins;
     font-size: 14px;
@@ -29,6 +28,11 @@
     font-size: 12px;
 }
 
+.right-header{
+    display: flex;
+    justify-content: space-between;
+    width: 287px;
+}
 
 .contact-center{
     display: flex;
@@ -38,18 +42,18 @@
     font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
-    text-align: right;
+    width: 137px;
+    justify-content: space-between;
 }
 
 .country-profile{
-    display: flex;
     color: #ffffff;
     font-family: Poppins;
     font-size: 14px;
     font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
-    text-align: right;
+    width: 120px;
 }
 
 .site-header{
