@@ -18,18 +18,15 @@
     letter-spacing: normal;
     line-height: 24px;
     text-align: left;
+    margin-top: 18px;
+    margin-bottom: 17px;
 }
 
-.language-switcher .fa-angle-down{
-    color: #ffffff;
-    font-family: "Font Awesome";
-    font-style: normal;
-    letter-spacing: 0.42px;
-    line-height: normal;
-    font-weight: 500;
+.fa-angle-down{
+    font-size: 12px;
 }
-
 .site-header{
+    display: flex;
     height: 50px;
     background-color: #ba0000;
 }
