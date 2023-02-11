@@ -11,7 +11,15 @@
 
 .language-switcher{
     color: #ffffff;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
 }
+
 
 .site-header{
     height: 50px;
