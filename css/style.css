@@ -4,6 +4,11 @@
     padding: 0;
 }
 
+.site-header .container{
+    display: flex;
+    justify-content: space-between;
+}
+
 .container{
     width: 1170px;
     margin: 0 auto;
@@ -24,8 +29,12 @@
     font-size: 12px;
 }
 
+.right-header{
+    display: display
+}
+
 .contact-center{
-    display: inline-block;
+    display: flex;
     color: #ffffff;
     font-family: Poppins;
     font-size: 14px;
@@ -36,7 +45,7 @@
 }
 
 .country-profile{
-    display: inline-block;
+    display: flex;
     color: #ffffff;
     font-family: Poppins;
     font-size: 14px;
