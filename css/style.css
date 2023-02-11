@@ -10,23 +10,45 @@
 }
 
 .language-switcher{
+    display: inline-block;
     color: #ffffff;
     font-family: Poppins;
     font-size: 14px;
     font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
-    line-height: 24px;
     text-align: left;
-    margin-top: 18px;
-    margin-bottom: 17px;
 }
 
 .fa-angle-down{
     font-size: 12px;
 }
+
+.contact-center{
+    display: inline-block;
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: right;
+}
+
+.country-profile{
+    display: inline-block;
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: right;
+}
+
 .site-header{
     display: flex;
+    align-items: center;
     height: 50px;
     background-color: #ba0000;
 }
