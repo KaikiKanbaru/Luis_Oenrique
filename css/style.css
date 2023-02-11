@@ -9,7 +9,11 @@
     margin: 0 auto;
 }
 
-.header .header_content{
+.language-switcher{
+    color: #ffffff;
+}
+
+.site-header{
     height: 50px;
     background-color: #ba0000;
 }
