@@ -63,12 +63,11 @@
     background-color: #ba0000;
 }
 
-.menu .menu_items{
+.menu{
     height: 120px;
     background-color: #ffcc00;
 }
 
-.main_section {
-    height: 800px;
-    background: url(../img/main/main_bg.jpg) center center/cover no-repeat;
+.dhl-logo{
+    
 }
