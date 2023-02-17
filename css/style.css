@@ -66,13 +66,13 @@
     background-color: #ba0000;
 }
 
-.nav{
+.nav {
+    position: relative;
     display: flex;
     align-items: center;
     background-color: #ffcc00;
     height: 120px;
-    
-}
+  }
 
 .nav-container{
     width: 1170px;
@@ -96,9 +96,43 @@
     justify-content: space-between;
     align-items: center;
     width: 654px;
-    margin-left: 6.46vw;
-
+    margin-left: 124px;
+    color: #ba0000;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: center;
 }
+
+.nav__item {
+    position: relative;
+  }
+  
+.nav__item::after {
+content: "";
+display: block;
+height: 2px;
+background-color: red;
+position: absolute;
+bottom: 0;
+left: 50%;
+transform: translateX(-50%);
+width: 0;
+transition: width 0.2s ease-in-out;
+}
+
+.nav__item:hover::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+    height: 2px;
+    width: 100%;
+    background-color: red;
+  }
 
 .nav__search {
     display: flex;
