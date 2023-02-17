@@ -67,6 +67,8 @@
 }
 
 .nav{
+    display: flex;
+    align-items: center;
     background-color: #ffcc00;
     height: 120px;
     
@@ -79,10 +81,10 @@
 
 .nav__row{
     display: flex;
+    align-items: center;
 }
 
 .nav_logo{
-    
 }
 
 .nav__list{
@@ -93,7 +95,7 @@
     justify-content: space-between;
     align-items: center;
     width: 654px;
-    margin-left: 124px;
+    margin-left: 6.46vw;
 }
 
 .nav__search {
