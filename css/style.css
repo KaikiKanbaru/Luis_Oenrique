@@ -85,6 +85,7 @@
 }
 
 .nav_logo{
+    display: flex;
 }
 
 .nav__list{
@@ -96,6 +97,7 @@
     align-items: center;
     width: 654px;
     margin-left: 6.46vw;
+
 }
 
 .nav__search {
