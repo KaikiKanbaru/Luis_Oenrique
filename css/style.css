@@ -9,6 +9,10 @@
     justify-content: space-between;
 }
 
+/*
+1. Высота всех элементов внутри, должна быть равна высоте контейнера
+*/
+
 .header-container{
     display: flex;
     align-items: center;
@@ -107,8 +111,11 @@
 }
 
 .nav__item {
-    position: relative;
-  }
+    height: 120px;
+    display: flex;
+    align-items: center;
+    position: relative
+}
   
 .nav__item::after {
 content: "";
